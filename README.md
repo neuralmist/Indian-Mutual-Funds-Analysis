@@ -1,6 +1,6 @@
 # Indian Mutual Funds Performance Analysis 📈
 
-[![Tableau Public](https://img.shields.io/badge/View_on_Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)]([YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com:9443/views/Indian-Mutual-Funds-Analysis/FirstPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Public](https://img.shields.io/badge/View_on_Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/Indian-Mutual-Funds-Analysis/FirstPage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Project Overview
 This project is an interactive Tableau dashboard designed to analyze the performance, risk profiles, and market share of Indian Mutual Funds. Built as a capstone application of advanced data visualization techniques, the dashboard provides a comprehensive tool for exploring asset distribution and evaluating the classic risk-versus-reward relationship across various fund categories.
